@@ -1,5 +1,7 @@
 # Accessing data from program code 
 
+Projects from course *Accessing data from program code*, 5th Semester @ [Algebra University College](https://www.algebra.hr/visoko-uciliste/en/)
+
 ## 7 applications:
 
 ### 1. Windows Forms app
