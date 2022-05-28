@@ -1,0 +1,60 @@
+create database Test
+go
+use Test
+go
+
+create Table Person
+(
+	IDPerson int primary key identity,
+	FirstName nvarchar(50) not null
+)
+go
+
+create Table Car
+(
+	IDCar int primary key identity,
+	Brand nvarchar(50) not null,
+	PersonID int constraint FK_Person_Car foreign key references Person(IDPerson)
+)
+
+create Table Phone
+(
+	IDPhone int primary key identity,
+	Name nvarchar(50) not null
+)
+go
+
+insert into Person(FirstName) values('Marta')
+insert into Person(FirstName) values('Milica')
+insert into Person(FirstName) values('Božo')
+
+update Person
+set FirstName = 'Marta Kezele'
+where FirstName = 'Marta'
+
+delete from Person where FirstName = 'Božo'
+
+insert into Car(Brand, PersonID) values('Tesla', 1)
+insert into Car(Brand, PersonID) values('Fićo', 1)
+insert into Car(Brand, PersonID) values('Golf', 2)
+go
+
+create view vwPersonCars
+as
+select p.FirstName, c.Brand from Person as p
+join Car as c on c.PersonID = p.IDPerson
+go
+
+create procedure SelectPersonsByName @FirstName nvarchar(50)
+as
+select * from Person where FirstName = @FirstName
+go
+
+create procedure InsertPerson @FirstName nvarchar(50)
+as
+insert into Person(FirstName) values(@FirstName)
+go
+ 
+select * from Person
+select * from Car
+select * from Phone

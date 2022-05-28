@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/dal/sql/EntityManagerWrapper.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/controller/CoursesController.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/viewmodel/StudentViewModel.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/model/Course.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/model/CourseProfessor.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/model/CourseStudent.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/model/Student.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/controller/StudentsController.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/CollegeApp.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/model/Professor.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/controller/ProfessorsController.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/dal/sql/HibernateRepo.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/viewmodel/CourseProfessorViewModel.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/viewmodel/CourseViewModel.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/utilities/ValidationUtils.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/controller/MenuBarController.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/dal/sql/HibernateFactory.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/controller/CollegeController.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/viewmodel/ProfessorViewModel.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/dal/RepoFactory.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/viewmodel/CourseStudentViewModel.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/utilities/ImageUtils.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/dal/Repo.java</file>
+            <file>file:/C:/Users/Marta/Desktop/PPPK_DZ/PPPK_DZ3/PPPK_DZ3/src/hr/algebra/utilities/FileUtils.java</file>
+        </group>
+    </open-files>
+</project-private>
