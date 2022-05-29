@@ -55,7 +55,7 @@ Different formats are stored in the same format directories
 - asynchronous working with data, accomplished through interfaces
 
 ### 7. Android app
-- Room ORM.
+- Room ORM
 - validation
 - navigation between fragments
 - connecting to the image gallery and saving them locally
